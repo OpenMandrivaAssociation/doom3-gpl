@@ -15,6 +15,7 @@ BuildRequires:	openal-devel
 BuildRequires:	curl-devel
 BuildRequires:	jpeg-devel
 BuildRequires:	GL-devel
+BuildRequires:	libalsa-devel
 
 %description
 Doom3 under GPLv3
